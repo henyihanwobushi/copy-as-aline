@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "copy-as-aline:toggle"
   },
-  "repository": "https://github.com/atom/copy-as-aline",
+  "repository": "https://github.com/henyihanwobushi/copy-as-aline",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
