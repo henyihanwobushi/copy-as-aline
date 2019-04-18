@@ -1,7 +1,7 @@
 {
   "name": "copy-as-aline",
   "main": "./lib/copy-as-aline",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],
