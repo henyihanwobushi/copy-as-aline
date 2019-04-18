@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle copy-as-aline",
+        "command": "copy-as-aline:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "copy-as-aline",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "copy-as-aline:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
